@@ -1,6 +1,6 @@
 Proyecto hecho en  [Next.js](https://nextjs.org/) usando recursos existentes de [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Como empezar
+## Empezando
 
 Correr el servidor de desarrollo:
 

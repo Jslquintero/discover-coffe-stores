@@ -14,6 +14,6 @@ pnpm dev
 
 Abrir el puerto  [http://localhost:3000](http://localhost:3000) del navegador para ver el resultado.
 
-## Vista en vivo
+## [Visitar](https://discover-coffe-stores-eliosth.vercel.app/)
 
-[Visitar](https://discover-coffe-stores-eliosth.vercel.app/)
+

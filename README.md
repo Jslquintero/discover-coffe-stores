@@ -4,7 +4,7 @@ Proyecto hecho en  [Next.js](https://nextjs.org/) usando recursos existentes de 
 
 ## Empezando
 
-Correr el servidor de desarrollo:
+Iniciar el servidor de desarrollo:
 
 ```bash
 npm run dev
